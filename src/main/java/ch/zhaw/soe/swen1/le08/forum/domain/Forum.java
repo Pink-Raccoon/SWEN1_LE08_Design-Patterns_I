@@ -15,6 +15,7 @@ public class Forum {
     private List<Topic> topics = new ArrayList<>();
 
     public Forum(Clock clock) {
+
         this.clock = clock;
     }
 
