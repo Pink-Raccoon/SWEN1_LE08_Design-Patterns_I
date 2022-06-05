@@ -9,8 +9,11 @@
         <module name="SWEN1_LE08_Design-Patterns_I" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="SWEN1_LE08_Design-Patterns_I" target="11" />
     </bytecodeTargetLevel>
+=======
+>>>>>>> 18a25acfa013f78890f3e36d2049c9d36178c30a
   </component>
 </project>
